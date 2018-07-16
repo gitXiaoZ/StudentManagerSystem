@@ -1,0 +1,25 @@
+{
+  "name": "StudentManagerSystem",
+  "version": "1.0.0",
+  "description": "基于node.js的学生管理网页",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "svg-captcha": "^1.3.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitXiaoZ/StudentManagerSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitXiaoZ/StudentManagerSystem/issues"
+  },
+  "homepage": "https://github.com/gitXiaoZ/StudentManagerSystem#readme"
+}
